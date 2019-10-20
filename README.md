@@ -14,6 +14,7 @@ This page has different processing animations : Have Digital Counters, Spinners,
 3- Spinners Components (Full time 30s or 60s)
 4- 3 dade Texts (3*10 Sec or 3*20 Sec) (Full time 30s or 60s)
 5- 3 Pie Animations (3*10 Sec or 3*20 Sec) (Full time 30s or 60s)
+6- 3 digital percentage Counter (3*10 Sec or 3*20 Sec) (Full time 30s or 60s)
 
 Responsive using Bootstrap framework
 
