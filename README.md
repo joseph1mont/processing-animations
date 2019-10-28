@@ -6,6 +6,9 @@ https://freelancewebdesignusa.com/examples/processingHTML/processing.html
 
 ![Screenshot](screenshot.png)
 
+Mobile Version: 
+![Screenshot](m-screenshot.png)
+
 Description:
 
 This page has different processing animations (Digital Counters, Spinners, Processing Bar, Processing Pie..)
