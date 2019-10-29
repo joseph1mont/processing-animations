@@ -2,7 +2,7 @@
 
 Responsive page with different types of animations using Javascript and Jquery framework
 
-https://freelancewebdesignusa.com/examples/processingHTML/processing.html
+https://freelancewebdesignusa.com/html/processing/processing.html
 
 ![Screenshot](screenshot.png)
 
@@ -23,7 +23,5 @@ This page has different processing animations (Digital Counters, Spinners, Proce
 Responsive using Bootstrap framework
 
 HTML5, #CSS3, #Javascript, #Jquery, #Bootstrap 
-
-https://freelancewebdesignusa.com/html/processing/processing.html
 
 Development By: freelance Web Design USA
